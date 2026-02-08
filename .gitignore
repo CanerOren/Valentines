@@ -45,11 +45,11 @@ next-env.d.ts
 
 # Personal photos (keep your photos private!)
 # Remove this section if you want to track your photos
-public/photos/*.jpg
-public/photos/*.jpeg
-public/photos/*.png
-public/photos/*.gif
-public/photos/*.webp
+# public/photos/*.jpg
+# public/photos/*.jpeg
+# public/photos/*.png
+# public/photos/*.gif
+# public/photos/*.webp
 
 # Keep example files and READMEs
 !public/photos/README_PHOTOS.txt
